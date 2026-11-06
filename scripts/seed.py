@@ -1,8 +1,11 @@
 """One-off editorial seed, researched 6 Nov 2026. Prices marked as estimates unless sourced."""
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+if (ROOT/'public/data/places.json').exists() and '--force' not in sys.argv:
+    raise SystemExit('Database already exists. Seed would overwrite additions. Pass --force only for an intentional reset.')
 places = []
 def add(id, name, category, area, address, cost, tagline, best, tip, source, phone='', maps='', **extra):
     places.append(dict(id=id,name=name,category=category,area=area,address=address,

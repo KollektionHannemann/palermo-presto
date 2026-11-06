@@ -22,7 +22,7 @@ for p in data['places']:
     rows=cache[query]
     if rows:
         r=rows[0];p['coords']=[float(r['lat']),float(r['lon'])]
-        p['locationPrecision']='address' if r.get('type') not in ['administrative','suburb','quarter','city','town'] else 'area'
+        p['locationPrecision']='area' if r.get('category')=='highway' or r.get('type') in ['administrative','suburb','quarter','city','town'] else 'address'
         p['sources'].append({'label':'Position · OpenStreetMap','url':'https://www.openstreetmap.org/'+r['osm_type']+'/'+str(r['osm_id'])})
     print(p['id'],p['locationPrecision'],flush=True)
     path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
