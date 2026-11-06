@@ -2339,6 +2339,39 @@
         "costa",
         "bisso"
       ]
+    },
+    {
+      "id": "trattoria-no-zu-toto-e-niputi-via-dei-candelai-110-90134-palermo-9a2661",
+      "name": "Trattoria no zu Totó e niputi, Via dei Candelai, 110, 90134 Palermo PA, Italien",
+      "category": "food",
+      "area": "Noch zuordnen",
+      "address": "Adresse noch nicht bestätigt",
+      "budget": null,
+      "priceKind": "unknown",
+      "host": false,
+      "tagline": "Find local businesses, view maps and get driving directions in Google Maps.",
+      "best": "Neu importiert · Details in der Quelle prüfen",
+      "tip": "Automatisch aus öffentlich verfügbaren Ortsdaten übernommen. Empfehlungen, Preise und Zeiten sind nur enthalten, wenn sie aus der Quelle sicher lesbar waren.",
+      "website": "https://www.google.com/maps/place/Trattoria+no+zu+Tot%C3%B3+e+niputi,+Via+dei+Candelai,+110,+90134+Palermo+PA,+Italien/data=!4m2!3m1!1s0x1319efe0e678dbfb:0xb9c7cb609cfeb1d3!18m1!1e1?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI2LjQ0LjUYACCenQoqrAEsOTQyOTIxOTUsOTQyOTk1MzIsMTAwNzk2NDk4LDEwMDc5Nzc2MSwxMDA3OTY1MzUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsMTAwODQ4MDk2LDEwMDg0MDY1NiwxMDA4MjAyMzcsMTAwODIyNDk0LDEwMDgyNzk3NSwxMDA4MzgzNTksMTIxODE2NDYxQgJERQ%3D%3D&skid=da5565e3-4e4c-43e5-b67e-d2fc52745043",
+      "phone": "",
+      "mapsUrl": "https://maps.app.goo.gl/HDBmrfw9FwKXYDpt7",
+      "sources": [
+        {
+          "label": "Importierte Originalquelle",
+          "url": "https://maps.app.goo.gl/HDBmrfw9FwKXYDpt7"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": null,
+      "tags": [
+        "Neu importiert"
+      ],
+      "image": "food",
+      "coords": null,
+      "locationPrecision": "unknown",
+      "related": [],
+      "status": "check",
+      "warning": "Automatisch importiert · Angaben noch prüfen"
     }
   ]
 }
