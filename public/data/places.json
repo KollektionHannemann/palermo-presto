@@ -233,6 +233,12 @@
       ],
       "locationPrecision": "area",
       "hours": {
+        "0": [
+          [
+            "19:30",
+            "23:00"
+          ]
+        ],
         "2": [
           [
             "12:30",
@@ -278,12 +284,6 @@
             "12:30",
             "15:00"
           ],
-          [
-            "19:30",
-            "23:00"
-          ]
-        ],
-        "0": [
           [
             "19:30",
             "23:00"
@@ -424,6 +424,12 @@
       ],
       "locationPrecision": "address",
       "hours": {
+        "0": [
+          [
+            "18:30",
+            "23:00"
+          ]
+        ],
         "2": [
           [
             "10:00",
@@ -449,12 +455,6 @@
           ]
         ],
         "6": [
-          [
-            "18:30",
-            "23:00"
-          ]
-        ],
-        "0": [
           [
             "18:30",
             "23:00"
@@ -506,7 +506,7 @@
       ],
       "locationPrecision": "area",
       "rating": {
-        "value": 9.0,
+        "value": 9,
         "scale": 10,
         "count": 432,
         "source": "TheFork",
@@ -2287,6 +2287,51 @@
       "locationPrecision": "landmark",
       "alwaysAccessible": true,
       "related": []
+    },
+    {
+      "id": "i-segreti-del-chiostro-0c207e",
+      "name": "I segreti del chiostro",
+      "category": "culture",
+      "area": "I Circoscrizione",
+      "address": "33 Piazza Bellini, 90133, Palermo",
+      "budget": null,
+      "priceKind": "unknown",
+      "host": false,
+      "tagline": "Neu entdeckt. Prüfe die Quelle für aktuelle Details.",
+      "best": "Neu importiert · Details in der Quelle prüfen",
+      "tip": "Automatisch aus öffentlich verfügbaren Ortsdaten übernommen. Empfehlungen, Preise und Zeiten sind nur enthalten, wenn sie aus der Quelle sicher lesbar waren.",
+      "website": "https://www.isegretidelchiostro.com/",
+      "phone": "",
+      "mapsUrl": "https://www.isegretidelchiostro.com/",
+      "sources": [
+        {
+          "label": "Importierte Originalquelle",
+          "url": "https://www.isegretidelchiostro.com/"
+        },
+        {
+          "label": "OpenStreetMap / Nominatim",
+          "url": "https://www.openstreetmap.org/way/442849021"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": null,
+      "tags": [
+        "Neu importiert"
+      ],
+      "image": "culture",
+      "coords": [
+        38.1149189,
+        13.3625335
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "terrazze",
+        "ponticello",
+        "stagnitta",
+        "quattro"
+      ],
+      "status": "check",
+      "warning": "Automatisch importiert · Angaben noch prüfen"
     }
   ]
 }

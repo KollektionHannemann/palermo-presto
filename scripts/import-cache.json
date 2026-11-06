@@ -1,0 +1,40 @@
+{
+  "I segreti del chiostro Palermo Italia": null,
+  "Piazza Bellini 33 Palermo Italia": {
+    "place_id": 53617403,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 442849021,
+    "lat": "38.1149189",
+    "lon": "13.3625335",
+    "category": "place",
+    "type": "square",
+    "place_rank": 25,
+    "importance": 0.21337448257116948,
+    "addresstype": "square",
+    "name": "Piazza Bellini",
+    "display_name": "Piazza Bellini, Kalsa, I Circoscrizione, Palermo, Sicilia, Italia",
+    "address": {
+      "square": "Piazza Bellini",
+      "neighbourhood": "Kalsa",
+      "suburb": "I Circoscrizione",
+      "city": "Palermo",
+      "county": "Palermo",
+      "ISO3166-2-lvl6": "IT-PA",
+      "state": "Sicilia",
+      "ISO3166-2-lvl4": "IT-82",
+      "country": "Italia",
+      "country_code": "it"
+    },
+    "extratags": {
+      "surface": "sett",
+      "wikidata": "Q1705215"
+    },
+    "boundingbox": [
+      "38.1146215",
+      "38.1152480",
+      "13.3619671",
+      "13.3629612"
+    ]
+  }
+}
