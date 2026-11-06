@@ -51,8 +51,8 @@ npm run preview
 - Recherchebeginn: **6. November 2026**. Jede Ortsseite hat Quellen und Prüfdatum.
 - Budgetspannen sind **redaktionelle Schätzungen**, sofern nicht ausdrücklich als publizierter Eintrittspreis gekennzeichnet. Menüpreise werden im konkreten Tipp mit Anbieterquelle genannt.
 - Sterne sind belegte Momentaufnahmen mit Plattform, Originalskala, ggf. Anzahl und Datum. Keine erfundenen Gesamtbewertungen. Für viele Orte gibt es bewusst noch keinen Sternwert.
-- Restaurantfotos sind als **Motivfotos der Kategorie** gekennzeichnet und behaupten nicht, das einzelne Lokal zu zeigen.
-- Fotografien: Wikimedia Commons. Autor, Lizenz, Original und Bearbeitung stehen in `public/data/photo-credits.json` und unter „Quellen & Hinweise“.
+- Lokalfotos sind individuell den jeweiligen Betrieben zugeordnet; Quelle und ursprüngliche Bild-URL stehen in den Bildnachweisen. Ergänzende Motivfotos sind ausdrücklich gekennzeichnet.
+- Fotografien: offizielle Websites / dokumentierte Ortsprofile sowie Wikimedia Commons. Autor, Lizenz, Original und Bearbeitung stehen in `public/data/photo-credits.json` und unter „Quellen & Hinweise“.
 - Schrift: DM Sans, Colophon Foundry, SIL Open Font License 1.1 (`public/fonts/OFL.txt`).
 - Geodaten: © OpenStreetMap-Mitwirkende, [ODbL](https://www.openstreetmap.org/copyright). Ungefähre Positionen sind mit `~` gekennzeichnet.
 - [Nominatim-Nutzungsregeln](https://operations.osmfoundation.org/policies/nominatim/): höchstens **eine Anfrage pro Sekunde**, identifizierender User-Agent, Ergebnisse zwischenspeichern, kein Autocomplete und keine systematischen Massendownloads. Importe sind serialisiert; Geocoding läuft nur für konkret hinzugefügte Orte.
