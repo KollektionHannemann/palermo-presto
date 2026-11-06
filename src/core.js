@@ -3,7 +3,8 @@ export const categories = [
   {id:'street',label:'Streetfood & Märkte',icon:'store'}, {id:'cafe',label:'Caffè',icon:'coffee'},
   {id:'pizza',label:'Pizza',icon:'pizza'}, {id:'wine',label:'Wein',icon:'wine'},
   {id:'rooftop',label:'Rooftops',icon:'sun'}, {id:'sweet',label:'Süßes',icon:'cake'},
-  {id:'culture',label:'Kultur',icon:'landmark'}, {id:'outdoors',label:'Draußen',icon:'leaf'}
+  {id:'culture',label:'Kultur',icon:'landmark'}, {id:'outdoors',label:'Draußen',icon:'leaf'},
+  {id:'other',label:'Noch zuordnen',icon:'compass'}
 ];
 export const normalize = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’']/g,'');
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

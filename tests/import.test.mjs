@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {publicIP,validateURL,parseMetadata,enrichPlace,withinPalermo} from '../scripts/import-place.mjs';
+import {publicIP,validateURL,parseMetadata,enrichPlace,withinPalermo,inferCategory} from '../scripts/import-place.mjs';
 test('Importer blocks internal targets including numeric hosts, IPv6 and credentials',async()=>{
  for(const input of ['https://127.0.0.1','https://2130706433','https://[::1]','https://[::ffff:127.0.0.1]','https://10.0.0.1','https://169.254.169.254/latest','http://example.com','https://example.com:8080','https://a:b@example.com'])await assert.rejects(()=>validateURL(input));
  await assert.rejects(()=>validateURL('https://example.com',async()=>[{address:'10.0.0.2'}]));
@@ -19,4 +19,8 @@ test('End-to-end enrichment retains evidence, missing values and coordinates; de
 test('Rejects another city and unreadable generic pages without inventing a location',async()=>{
  await assert.rejects(()=>enrichPlace('https://example.com',[],{fetchPage:async()=>({html:html.replace('38.12','48.12'),url:'https://example.com'})}));
  assert.throws(()=>parseMetadata('<title>Just a moment…</title>','https://example.com'));
+});
+test('Unknown business categories remain unknown; OSM confectionery is recognized',()=>{
+ assert.equal(inferCategory({name:'I segreti del chiostro',type:'LocalBusiness',cuisine:'',description:''}),'other');
+ assert.equal(inferCategory({name:'A new shop',type:'LocalBusiness confectionery',cuisine:'',description:''}),'sweet');
 });

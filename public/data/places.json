@@ -2291,15 +2291,18 @@
     {
       "id": "i-segreti-del-chiostro-0c207e",
       "name": "I segreti del chiostro",
-      "category": "culture",
-      "area": "I Circoscrizione",
-      "address": "33 Piazza Bellini, 90133, Palermo",
-      "budget": null,
-      "priceKind": "unknown",
+      "category": "sweet",
+      "area": "Quattro Canti",
+      "address": "Via Discesa dei Giudici 33 · Monastero di Santa Caterina",
+      "budget": [
+        3,
+        10
+      ],
+      "priceKind": "estimate",
       "host": false,
-      "tagline": "Neu entdeckt. Prüfe die Quelle für aktuelle Details.",
-      "best": "Neu importiert · Details in der Quelle prüfen",
-      "tip": "Automatisch aus öffentlich verfügbaren Ortsdaten übernommen. Empfehlungen, Preise und Zeiten sind nur enthalten, wenn sie aus der Quelle sicher lesbar waren.",
+      "tagline": "Sizilianische Kloster-Pasticceria hinter den Mauern von Santa Caterina.",
+      "best": "Traditionelles Klostergebäck & Ricotta-Spezialitäten",
+      "tip": "Die Dolceria greift alte Rezepte sizilianischer Klöster auf. Unsere Empfehlung: eine kleine Auswahl teilen und mit Quattro Canti oder Casa Stagnitta verbinden. Der Zugang zur Dolceria ist vom Museums- und Dachrundgang zu unterscheiden.",
       "website": "https://www.isegretidelchiostro.com/",
       "phone": "",
       "mapsUrl": "https://www.isegretidelchiostro.com/",
@@ -2311,27 +2314,31 @@
         {
           "label": "OpenStreetMap / Nominatim",
           "url": "https://www.openstreetmap.org/way/442849021"
+        },
+        {
+          "label": "Offizieller Hintergrund zur Dolceria",
+          "url": "https://www.isegretidelchiostro.com/chi-siamo"
         }
       ],
       "checkedAt": "2026-11-06",
-      "duration": null,
+      "duration": 30,
       "tags": [
-        "Neu importiert"
+        "Pasticceria",
+        "Kloster",
+        "Schnell"
       ],
-      "image": "culture",
+      "image": "sweet",
       "coords": [
         38.1149189,
         13.3625335
       ],
-      "locationPrecision": "address",
+      "locationPrecision": "area",
       "related": [
-        "terrazze",
-        "ponticello",
+        "quattro",
         "stagnitta",
-        "quattro"
-      ],
-      "status": "check",
-      "warning": "Automatisch importiert · Angaben noch prüfen"
+        "costa",
+        "bisso"
+      ]
     }
   ]
 }
