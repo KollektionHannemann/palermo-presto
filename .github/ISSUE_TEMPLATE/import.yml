@@ -1,0 +1,16 @@
+name: Ort per Link importieren
+description: Einen neuen Ort im Palermo-Guide automatisch anreichern.
+title: 'Ort importieren'
+body:
+  - type: markdown
+    attributes:
+      value: 'Für automatischen Import bitte den Button „Ort hinzufügen“ im Guide nutzen. Ausführen darf nur der Repository-Eigentümer.'
+  - type: textarea
+    id: link
+    attributes:
+      label: Importdaten
+      value: |
+        <!-- palermo-import -->
+        URL: https://
+    validations:
+      required: true

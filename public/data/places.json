@@ -1,0 +1,2292 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-06",
+  "city": "Palermo",
+  "places": [
+    {
+      "id": "favas",
+      "name": "Fava’s Bar e Cucina",
+      "category": "cafe",
+      "area": "Capo",
+      "address": "Via Nicolò Turrisi 2",
+      "budget": [
+        3,
+        12
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Der unkomplizierte Start um die Ecke.",
+      "best": "Espresso & süßes Frühstück",
+      "tip": "Deine Host empfiehlt ausdrücklich das Frühstück. Gut für einen schnellen Start vor dem Capo-Markt.",
+      "website": "https://restaurantguru.it/Favas-Bar-e-Cucina-Palermo",
+      "phone": "+393479958885",
+      "mapsUrl": "https://g.co/kgs/hk6UCgh",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://restaurantguru.it/Favas-Bar-e-Cucina-Palermo"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/96957240"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [
+        "Frühstück",
+        "Schnell",
+        "Host um die Ecke"
+      ],
+      "image": "cafe",
+      "coords": [
+        38.1200189,
+        13.3519326
+      ],
+      "locationPrecision": "area",
+      "hours": {
+        "1": [
+          [
+            "07:00",
+            "16:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "16:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "16:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "16:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "16:00"
+          ]
+        ]
+      },
+      "rating": {
+        "value": 4.7,
+        "scale": 5,
+        "count": null,
+        "source": "Google via Restaurant Guru",
+        "url": "https://restaurantguru.it/Favas-Bar-e-Cucina-Palermo",
+        "checkedAt": "2026-11-06"
+      },
+      "related": [
+        "lumia",
+        "angeliche",
+        "frida",
+        "capo"
+      ]
+    },
+    {
+      "id": "doba",
+      "name": "DoBa Restaurant & Terrace",
+      "category": "rooftop",
+      "area": "Olivella",
+      "address": "Via Bara all’Olivella 78",
+      "budget": [
+        45,
+        85
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein besonderer Abend über den Dächern.",
+      "best": "Terrasse mit Blick zum Teatro Massimo",
+      "tip": "Zum Abendessen reservieren und nach einem Terrassenplatz fragen. Saisonale Menüs direkt beim Restaurant prüfen.",
+      "website": "https://www.dobarestaurant.it/",
+      "phone": "+393277661682",
+      "mapsUrl": "https://g.co/kgs/Sm6MBGD",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.dobarestaurant.it/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86565309"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 120,
+      "tags": [
+        "Aussicht",
+        "Date Night",
+        "Reservieren"
+      ],
+      "image": "rooftop",
+      "coords": [
+        38.1204,
+        13.3582
+      ],
+      "locationPrecision": "area",
+      "rating": {
+        "value": 4.5,
+        "scale": 5,
+        "count": 132,
+        "source": "Tripadvisor",
+        "url": "https://www.tripadvisor.it/Restaurant_Review-g187890-d26271547-Reviews-Doba_Restaurant_and_Terrace-Palermo_Province_of_Palermo_Sicily.html",
+        "checkedAt": "2026-11-06"
+      },
+      "related": [
+        "fud",
+        "basile",
+        "cuticchio",
+        "massimo"
+      ]
+    },
+    {
+      "id": "terrazze",
+      "name": "Le Terrazze del Sole",
+      "category": "rooftop",
+      "area": "Cassaro",
+      "address": "Via Vittorio Emanuele 291",
+      "budget": [
+        25,
+        50
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Dachterrasse über der Piazza Pretoria.",
+      "best": "Ausblick & Aperitivo nach bestätigter Wiedereröffnung",
+      "tip": "Die offizielle Website kündigt eine Wiedereröffnung an. Vor dem Besuch unbedingt anrufen; vorerst kein spontaner Tipp.",
+      "website": "https://www.leterrazzedelsole.it/",
+      "phone": "+393703036507",
+      "mapsUrl": "https://g.co/kgs/V96ccHm",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.leterrazzedelsole.it/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/10047759397"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "rooftop",
+      "status": "check",
+      "warning": "Wiedereröffnung angekündigt · Betrieb vorab bestätigen",
+      "coords": [
+        38.1159728,
+        13.3619667
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "canopia",
+        "kassaro",
+        "buatta",
+        "stagnitta"
+      ]
+    },
+    {
+      "id": "branciforte",
+      "name": "Ristorante Palazzo Branciforte",
+      "category": "food",
+      "area": "Castellammare",
+      "address": "Largo Gae Aulenti 2",
+      "budget": [
+        55,
+        100
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Sizilianische Küche im restaurierten Palazzo.",
+      "best": "Degustationsmenü im Innenhof",
+      "tip": "Für einen längeren, ruhigeren Abend reservieren. Das publizierte Sechs-Gänge-Menü kostet 90 €; Coperto 5 €.",
+      "website": "https://www.ristorantepalazzobranciforte.it/en/menu/menu-a-la-carte-spring-summer-2026/",
+      "phone": "+393668096244",
+      "mapsUrl": "https://g.co/kgs/rQTcNF4",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.ristorantepalazzobranciforte.it/en/menu/menu-a-la-carte-spring-summer-2026/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 120,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1201,
+        13.3648
+      ],
+      "locationPrecision": "area",
+      "hours": {
+        "2": [
+          [
+            "12:30",
+            "15:00"
+          ],
+          [
+            "19:30",
+            "23:00"
+          ]
+        ],
+        "3": [
+          [
+            "12:30",
+            "15:00"
+          ],
+          [
+            "19:30",
+            "23:00"
+          ]
+        ],
+        "4": [
+          [
+            "12:30",
+            "15:00"
+          ],
+          [
+            "19:30",
+            "23:00"
+          ]
+        ],
+        "5": [
+          [
+            "12:30",
+            "15:00"
+          ],
+          [
+            "19:30",
+            "23:00"
+          ]
+        ],
+        "6": [
+          [
+            "12:30",
+            "15:00"
+          ],
+          [
+            "19:30",
+            "23:00"
+          ]
+        ],
+        "0": [
+          [
+            "19:30",
+            "23:00"
+          ]
+        ]
+      },
+      "related": [
+        "funnaco"
+      ]
+    },
+    {
+      "id": "lumia",
+      "name": "Lumia Restaurant",
+      "category": "food",
+      "area": "Capo",
+      "address": "Via Sant’Agostino 136",
+      "budget": [
+        35,
+        65
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein ruhiger Innenhof mitten im Zentrum.",
+      "best": "Saisonales Abendessen im Boutiquehotel",
+      "tip": "Teil von Casa Nostra Boutique Hotel. Nach dem aktuellen Menü und einem Tisch im Hof fragen.",
+      "website": "https://www.thefork.it/ristorante/lumia-restaurant-r708173",
+      "phone": "+39091327003",
+      "mapsUrl": "https://g.co/kgs/JEn82AH",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.thefork.it/ristorante/lumia-restaurant-r708173"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/9468588589"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1177154,
+        13.3564895
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "favas",
+        "angeliche",
+        "frida",
+        "capo"
+      ]
+    },
+    {
+      "id": "canopia",
+      "name": "Canopia · Giungla Urbana",
+      "category": "food",
+      "area": "Cassaro",
+      "address": "Via Vittorio Emanuele 198",
+      "budget": [
+        25,
+        45
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Palermo auf dem Teller, mit einem modernen Dreh.",
+      "best": "Menù Vucciria · fünf Gänge für 35 €",
+      "tip": "Guter Einstieg in die lokale Küche. Das 35-€-Menü schließt Getränke und Coperto aus; à la carte z. B. Bucatini con le sarde.",
+      "website": "https://www.canopiapalermo.it/menu/",
+      "phone": "+393289190387",
+      "mapsUrl": "https://maps.app.goo.gl/KGTQeKog7wCpcaFP9",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.canopiapalermo.it/menu/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/9768994617"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.116824,
+        13.3644628
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "terrazze",
+        "kassaro",
+        "buatta",
+        "stagnitta"
+      ]
+    },
+    {
+      "id": "angeliche",
+      "name": "Le Angeliche",
+      "category": "food",
+      "area": "Capo",
+      "address": "Vicolo Abbadia 10–14",
+      "budget": [
+        25,
+        45
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein kleiner Rückzugsort im lebhaften Capo.",
+      "best": "Saisonale sizilianische Marktküche",
+      "tip": "Laut deiner Host ganz in der Nähe der Unterkunft. Die Küche kauft am Capo-Markt ein; lieber die Tagesempfehlung erfragen.",
+      "website": "https://www.leangeliche.it/cucina/",
+      "phone": "+393756874492",
+      "mapsUrl": "https://g.co/kgs/MCm3mY9",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.leangeliche.it/cucina/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/6561456902"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Marktküche",
+        "Vegetarische Optionen",
+        "Host um die Ecke"
+      ],
+      "image": "food",
+      "coords": [
+        38.1180151,
+        13.3540565
+      ],
+      "locationPrecision": "address",
+      "hours": {
+        "2": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "4": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "5": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "6": [
+          [
+            "18:30",
+            "23:00"
+          ]
+        ],
+        "0": [
+          [
+            "18:30",
+            "23:00"
+          ]
+        ]
+      },
+      "related": [
+        "favas",
+        "lumia",
+        "frida",
+        "capo"
+      ]
+    },
+    {
+      "id": "ponticello",
+      "name": "Ponticello Taverna Gastronomica",
+      "category": "food",
+      "area": "Albergheria",
+      "address": "Vicolo Viola 2",
+      "budget": [
+        20,
+        35
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Sizilianische Taverne in einer kleinen Seitengasse.",
+      "best": "Polpette di pane & lokaler Käse",
+      "tip": "Gut mit Ballarò oder Quattro Canti kombinierbar. Das aktuelle Menü liegt beim verlinkten digitalen Anbieter.",
+      "website": "https://www.leggimenu.it/menu/79pkbf2l71r1",
+      "phone": "+390917371417",
+      "mapsUrl": "https://g.co/kgs/v2drU7j",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.leggimenu.it/menu/79pkbf2l71r1"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86665908"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1136968,
+        13.3625102
+      ],
+      "locationPrecision": "area",
+      "rating": {
+        "value": 9.0,
+        "scale": 10,
+        "count": 432,
+        "source": "TheFork",
+        "url": "https://www.thefork.it/ristorante/ponticello-taverna-gastronomica-r697793",
+        "checkedAt": "2026-11-06"
+      },
+      "related": [
+        "ballaro"
+      ]
+    },
+    {
+      "id": "fud",
+      "name": "FUD Bottega Sicula",
+      "category": "food",
+      "area": "Olivella",
+      "address": "Piazza Olivella 4",
+      "budget": [
+        15,
+        25
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Sizilianische Zutaten, große Panini, lockere Stimmung.",
+      "best": "Panini & sizilianische Produkte",
+      "tip": "Praktisch vor dem Teatro Massimo. Der Anbieter führt auch vegetarische und vegane Gerichte; keine klassische Trattoria.",
+      "website": "https://www.fud.it/palermo/",
+      "phone": "+390916112184",
+      "mapsUrl": "https://share.google/u6uZL6XelfnHc2d64",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.fud.it/palermo/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/5448179838"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Vegan möglich",
+        "Schnell",
+        "Panini"
+      ],
+      "image": "food",
+      "coords": [
+        38.1203571,
+        13.3601397
+      ],
+      "locationPrecision": "address",
+      "hours": {
+        "0": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ],
+        "1": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ],
+        "2": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ],
+        "3": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ],
+        "4": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ],
+        "5": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ],
+        "6": [
+          [
+            "12:00",
+            "00:30"
+          ]
+        ]
+      },
+      "rating": {
+        "value": 9.1,
+        "scale": 10,
+        "count": 34,
+        "source": "TheFork",
+        "url": "https://www.thefork.com/restaurant/fud-bottega-sicula-palermo-r865750/menu",
+        "checkedAt": "2026-11-06"
+      },
+      "related": [
+        "doba",
+        "basile",
+        "cuticchio",
+        "massimo"
+      ]
+    },
+    {
+      "id": "alivaru",
+      "name": "Osteria Alivàru",
+      "category": "food",
+      "area": "Kalsa",
+      "address": "Via della Vetriera 1",
+      "budget": [
+        25,
+        40
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Familienküche mit Zutaten vom Ballarò.",
+      "best": "Sizilianische Küche & ein lokaler Wein",
+      "tip": "Carlo Napolis Osteria liegt an der Piazza Magione. Reservierung empfohlen; danach ein Spaziergang durch die Kalsa.",
+      "website": "https://www.alivaru.com/",
+      "phone": "+393403081048",
+      "mapsUrl": "https://g.co/kgs/uHfXiLA",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.alivaru.com/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86530716"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1153228,
+        13.370291
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "scjabaca",
+        "ottava",
+        "santa-cecilia",
+        "ciccio"
+      ]
+    },
+    {
+      "id": "kassaro",
+      "name": "Caffè del Kassaro",
+      "category": "food",
+      "area": "Cassaro",
+      "address": "Via Vittorio Emanuele 390",
+      "budget": [
+        8,
+        18
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Der günstige Mittagstipp deiner Host.",
+      "best": "Einfaches sizilianisches Mittagessen",
+      "tip": "Laut Host nur mittags geöffnet und sonntags geschlossen. Nicht für das Abendessen einplanen; aktuelle Zeiten telefonisch prüfen.",
+      "website": "https://www.tripadvisor.com/Restaurant_Review-g187890-d4097600-Reviews-Caffe_del_Kassaro-Palermo_Province_of_Palermo_Sicily.html",
+      "phone": "+390915070023",
+      "mapsUrl": "https://g.co/kgs/7JNhcF",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g187890-d4097600-Reviews-Caffe_del_Kassaro-Palermo_Province_of_Palermo_Sicily.html"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/13463719643"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1146108,
+        13.358996
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "terrazze",
+        "canopia",
+        "buatta",
+        "stagnitta"
+      ]
+    },
+    {
+      "id": "basile",
+      "name": "Basile Focacceria del Massimo",
+      "category": "street",
+      "area": "Olivella",
+      "address": "Via Bara all’Olivella",
+      "budget": [
+        5,
+        12
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein schneller, herzhafter Stopp am Massimo.",
+      "best": "Focaccia & palermitanische Snacks",
+      "tip": "Ein günstiger Host-Tipp für zwischendurch. Die genaue Hausnummer ist noch nicht unabhängig bestätigt; Original-Maps-Link nutzen.",
+      "website": "https://yandex.com/maps/org/basile_focacceria_del_massimo/54345863408/",
+      "phone": "+39091335628",
+      "mapsUrl": "https://g.co/kgs/ZU5u2fZ",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://yandex.com/maps/org/basile_focacceria_del_massimo/54345863408/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86565309"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [],
+      "image": "street",
+      "coords": [
+        38.1204,
+        13.3582
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "doba",
+        "fud",
+        "cuticchio",
+        "massimo"
+      ]
+    },
+    {
+      "id": "buatta",
+      "name": "Buatta Cucina Popolana",
+      "category": "food",
+      "area": "Cassaro",
+      "address": "Via Vittorio Emanuele 176",
+      "budget": [
+        25,
+        40
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Sizilianische Hausküche in einer alten Kofferhandlung.",
+      "best": "Saisonale Klassiker & Sfincione zum Auftakt",
+      "tip": "Im Michelin Guide geführt. Der historische Ladenraum ist ein Teil des Erlebnisses; für abends reservieren.",
+      "website": "https://www.buattapalermo.it/menu-di-palermo/",
+      "phone": "+39091322378",
+      "mapsUrl": "https://g.co/kgs/h72LTi",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.buattapalermo.it/menu-di-palermo/"
+        },
+        {
+          "label": "Michelin Guide",
+          "url": "https://guide.michelin.com/us/en/sicilia/palermo/restaurant/buatta-cucina-popolana"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/3737957625"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Sizilianisch",
+        "Michelin Guide",
+        "Reservieren"
+      ],
+      "image": "food",
+      "coords": [
+        38.117103,
+        13.365181
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "terrazze",
+        "canopia",
+        "kassaro",
+        "stagnitta"
+      ]
+    },
+    {
+      "id": "scjabaca",
+      "name": "Scjabaca",
+      "category": "food",
+      "area": "Kalsa",
+      "address": "Vicolo San Carlo 42",
+      "budget": [
+        35,
+        55
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Kreative Küche in den Gassen der Kalsa.",
+      "best": "Glasierte Parmigiana · laut Menü 14 €",
+      "tip": "Für einen bewussten Restaurantabend. Das publizierte Menü bietet auch pochiertes Ei und gerösteten Oktopus.",
+      "website": "https://www.scjabacaristorante.it/menu/",
+      "phone": "+390915076739",
+      "mapsUrl": "https://g.co/kgs/KGUB7KZ",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.scjabacaristorante.it/menu/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86530905"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1146254,
+        13.3668849
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "alivaru",
+        "ottava",
+        "santa-cecilia",
+        "ciccio"
+      ]
+    },
+    {
+      "id": "ottava",
+      "name": "L’Ottava Nota",
+      "category": "food",
+      "area": "Kalsa",
+      "address": "Via Butera 55",
+      "budget": [
+        65,
+        120
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein Abend mit Zeit für mehrere Gänge.",
+      "best": "Sette Note · sieben Gänge für 110 €",
+      "tip": "Die offizielle Karte führt auch ein vegetarisches Degustationsmenü. Vorher reservieren; Weinbegleitung kostet extra.",
+      "website": "https://ristoranteottavanota.it/menu/",
+      "phone": "+390916168601",
+      "mapsUrl": "https://g.co/kgs/1mSzMwf",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://ristoranteottavanota.it/menu/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86530771"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 120,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1181651,
+        13.3714627
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "santa-cecilia",
+        "ciccio"
+      ]
+    },
+    {
+      "id": "bisso",
+      "name": "Bisso Bistrot",
+      "category": "food",
+      "area": "Quattro Canti",
+      "address": "Via Maqueda 172A",
+      "budget": [
+        15,
+        30
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein lebendiges Bistrot direkt an den Quattro Canti.",
+      "best": "Panelle & ein saisonales Pastagericht",
+      "tip": "Unkomplizierter Stopp mitten im Zentrum. Die veröffentlichte Küche-Karte listet Panelle für 8 €; weitere Gerichte saisonal.",
+      "website": "https://bissobistrot.it/menu/",
+      "phone": "+393281314595",
+      "mapsUrl": "https://g.co/kgs/9pBuujH",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://bissobistrot.it/menu/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/4383608093"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "food",
+      "coords": [
+        38.1157909,
+        13.3613145
+      ],
+      "locationPrecision": "address",
+      "hours": {
+        "0": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ],
+        "1": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "00:00"
+          ]
+        ]
+      },
+      "related": [
+        "costa",
+        "quattro"
+      ]
+    },
+    {
+      "id": "santa-cecilia",
+      "name": "Real Teatro Santa Cecilia",
+      "category": "culture",
+      "area": "Kalsa",
+      "address": "Piazza Teatro Santa Cecilia 5",
+      "budget": [
+        15,
+        40
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein historisches Theater mit Jazz im Programm.",
+      "best": "Ein Konzert des Brass Group",
+      "tip": "Die Saison Brass in Jazz 2026/27 läuft laut Veranstalter von Oktober bis April. Konkreten Spieltag und Ticket direkt prüfen.",
+      "website": "https://www.brassgroup.it/brassainjazz26-27/",
+      "phone": "+390917782300",
+      "mapsUrl": "https://g.co/kgs/YCfxzGW",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.brassgroup.it/brassainjazz26-27/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/3396245908"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [],
+      "image": "culture",
+      "coords": [
+        38.1144302,
+        13.3651548
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "ciccio"
+      ]
+    },
+    {
+      "id": "cuticchio",
+      "name": "Teatro dei Pupi · Cuticchio",
+      "category": "culture",
+      "area": "Olivella",
+      "address": "Via Bara all’Olivella 95",
+      "budget": [
+        10,
+        20
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Siziliens Puppentheater in einer lebendigen Tradition.",
+      "best": "Eine Vorstellung der Figli d’Arte Cuticchio",
+      "tip": "Das Programm vorher ansehen. Gut mit FUD, DoBa oder einem Abend am Teatro Massimo verbinden.",
+      "website": "https://www.figlidartecuticchio.com/",
+      "phone": "+39091323400",
+      "mapsUrl": "https://g.co/kgs/NCaEtEz",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.figlidartecuticchio.com/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/6558498885"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [],
+      "image": "culture",
+      "coords": [
+        38.1208126,
+        13.3593113
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "doba",
+        "fud",
+        "basile",
+        "massimo"
+      ]
+    },
+    {
+      "id": "argento",
+      "name": "Opera dei Pupi · Famiglia Argento",
+      "category": "culture",
+      "area": "Cattedrale",
+      "address": "Via Pietro Novelli 1",
+      "budget": [
+        12,
+        12
+      ],
+      "priceKind": "published",
+      "host": true,
+      "tagline": "Paladine und Handwerkskunst gegenüber der Kathedrale.",
+      "best": "Traditionelles Puppentheater im Palazzo Asmundo",
+      "tip": "Die Stadt nennt 12 € für Erwachsene und 17:30 Uhr als tägliche Spielzeit. Vorher telefonisch bestätigen.",
+      "website": "https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?det=18&id=385&tp=68",
+      "phone": "+393491353267",
+      "mapsUrl": "https://g.co/kgs/T8gAEeHT",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?det=18&id=385&tp=68"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/9794958803"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [],
+      "image": "culture",
+      "coords": [
+        38.1132986,
+        13.3563611
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "cattedrale"
+      ]
+    },
+    {
+      "id": "ciccio",
+      "name": "Ciccio Passami l’Olio",
+      "category": "pizza",
+      "area": "Kalsa",
+      "address": "Via Castrofilippo 4",
+      "budget": [
+        12,
+        22
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Pizza, sizilianische Mehle und die Piazza Magione.",
+      "best": "Pizza Ciccio passami l’olio · laut Karte 11 €",
+      "tip": "Die Hauspizza kommt mit Büffelmozzarella, Pilzen und Speck. Für den Start empfiehlt das Haus seine frittierten Donzelle.",
+      "website": "https://www.ciccio-passamilolio.it/menu/",
+      "phone": "+390916167109",
+      "mapsUrl": "https://g.co/kgs/T1bqjqz",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.ciccio-passamilolio.it/menu/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/4781721724"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "pizza",
+      "coords": [
+        38.1141735,
+        13.3689709
+      ],
+      "locationPrecision": "address",
+      "hours": {
+        "0": [
+          [
+            "18:00",
+            "00:00"
+          ]
+        ],
+        "1": [
+          [
+            "18:00",
+            "00:00"
+          ]
+        ],
+        "2": [
+          [
+            "18:00",
+            "00:00"
+          ]
+        ],
+        "3": [
+          [
+            "18:00",
+            "00:00"
+          ]
+        ],
+        "4": [
+          [
+            "18:00",
+            "00:00"
+          ]
+        ],
+        "5": [
+          [
+            "18:00",
+            "01:00"
+          ]
+        ],
+        "6": [
+          [
+            "18:00",
+            "02:00"
+          ]
+        ]
+      },
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "santa-cecilia"
+      ]
+    },
+    {
+      "id": "funnaco",
+      "name": "Fúnnaco PizzaLab",
+      "category": "pizza",
+      "area": "Castellammare",
+      "address": "Via Pantelleria 19",
+      "budget": [
+        15,
+        25
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Pizza als kleines Teig-Experiment.",
+      "best": "Verschiedene Teige & sizilianisches Craft Beer",
+      "tip": "Der Anbieter nennt glutenfreie und laktosefreie Angebote. Bei Unverträglichkeiten die konkrete Zubereitung direkt abklären.",
+      "website": "https://www.funnaco.it/menu/",
+      "phone": "+393518767650",
+      "mapsUrl": "https://g.co/kgs/BrChjqE",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.funnaco.it/menu/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/11626565629"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Pizza",
+        "Besondere Teige"
+      ],
+      "image": "pizza",
+      "coords": [
+        38.1199957,
+        13.3644627
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "branciforte"
+      ]
+    },
+    {
+      "id": "frida",
+      "name": "Frida Pizzeria",
+      "category": "pizza",
+      "area": "Capo",
+      "address": "Piazza Sant’Onofrio 37–38",
+      "budget": [
+        15,
+        25
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Kreative Pizza an einer kleinen Altstadtpiazza.",
+      "best": "Eine der kreativen Pizzen des Hauses",
+      "tip": "Die Pizzeria experimentiert mit Formen und Zutaten. Abends reservieren, danach durch die Gassen zum Teatro Massimo.",
+      "website": "https://www.fridapizzeria.it/chi-siamo/",
+      "phone": "+390915505440",
+      "mapsUrl": "https://g.co/kgs/TBRV7QU",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.fridapizzeria.it/chi-siamo/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86624035"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Pizza",
+        "Reservieren"
+      ],
+      "image": "pizza",
+      "coords": [
+        38.1173004,
+        13.3587073
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "favas",
+        "lumia",
+        "angeliche",
+        "capo"
+      ]
+    },
+    {
+      "id": "stagnitta",
+      "name": "Casa Stagnitta",
+      "category": "cafe",
+      "area": "Cassaro",
+      "address": "Discesa dei Giudici 46",
+      "budget": [
+        3,
+        10
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Eine Kaffeepause mit Geschichte.",
+      "best": "Espresso oder Kaffeegranita",
+      "tip": "Tagsüber vorbeischauen: Die offizielle Website nennt Montag bis Samstag 7–18 Uhr für die Caffetteria.",
+      "website": "https://www.casastagnitta.it/",
+      "phone": "+390916172819",
+      "mapsUrl": "https://g.co/kgs/34Fd5Bo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.casastagnitta.it/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86544737"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [
+        "Kaffee",
+        "Granita",
+        "Schnell"
+      ],
+      "image": "cafe",
+      "coords": [
+        38.1155,
+        13.3637
+      ],
+      "locationPrecision": "area",
+      "hours": {
+        "1": [
+          [
+            "07:00",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "18:00"
+          ]
+        ]
+      },
+      "related": [
+        "terrazze",
+        "canopia",
+        "kassaro",
+        "buatta"
+      ]
+    },
+    {
+      "id": "enoteco",
+      "name": "ENOTÈCO",
+      "category": "wine",
+      "area": "Kalsa",
+      "address": "Via Giuseppe Garibaldi · Palazzo Aiutamicristo",
+      "budget": [
+        10,
+        25
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Der Wein-Tipp deiner Host, aktuell mit Fragezeichen.",
+      "best": "Weinabend nach Bestätigung des Betriebs",
+      "tip": "Ein Bericht vom August 2026 nennt behördliche Maßnahmen am Lokal. Der aktuelle Betrieb ist ungeklärt; zuerst anrufen.",
+      "website": "https://www.lasicilia.it/news/cronaca/2549918/palermo-sequestrato-un-pub-realizzato-in-un-palazzo-storico.html",
+      "phone": "+393896940903",
+      "mapsUrl": "https://g.co/kgs/D1M8xoX",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.lasicilia.it/news/cronaca/2549918/palermo-sequestrato-un-pub-realizzato-in-un-palazzo-storico.html"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/336962373"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "wine",
+      "status": "check",
+      "warning": "Betrieb ungeklärt · vor dem Besuch anrufen",
+      "coords": [
+        38.1132884,
+        13.367034
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "santa-cecilia"
+      ]
+    },
+    {
+      "id": "barone",
+      "name": "Dal Barone",
+      "category": "wine",
+      "area": "Kalsa",
+      "address": "Via Alessandro Paternostro 87",
+      "budget": [
+        8,
+        22
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Naturwein und ein Abend auf der Gasse.",
+      "best": "Ein sizilianischer Naturwein nach Beratung",
+      "tip": "Nach einem lokalen Orange Wine oder Perricone fragen. Dazu etwas Käse; früh vorbeischauen, wenn du einen Platz möchtest.",
+      "website": "https://www.corner.inc/place/pBbVSSNwq6sy",
+      "phone": "",
+      "mapsUrl": "https://g.co/kgs/uTVdrZ",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.corner.inc/place/pBbVSSNwq6sy"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/86530776"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Naturwein",
+        "Aperitivo"
+      ],
+      "image": "wine",
+      "coords": [
+        38.1154928,
+        13.3664993
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "santa-cecilia"
+      ]
+    },
+    {
+      "id": "buonivini",
+      "name": "Enoteca Buonivini",
+      "category": "wine",
+      "area": "Politeama",
+      "address": "Via Dante 8",
+      "budget": [
+        10,
+        25
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Eine große Weinauswahl nahe dem Politeama.",
+      "best": "Sizilianischen Wein glasweise entdecken",
+      "tip": "Ideal, wenn du verschiedene Regionen vergleichen willst. Die Website führt unter anderem Etna- und Marsala-Produzenten.",
+      "website": "https://www.enotecabuonivini.com/negozi",
+      "phone": "+390917847054",
+      "mapsUrl": "https://g.co/kgs/JrUKYbu",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.enotecabuonivini.com/negozi"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/97354766"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "wine",
+      "coords": [
+        38.127,
+        13.3544
+      ],
+      "locationPrecision": "area",
+      "hours": {
+        "0": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ],
+        "1": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "13:30"
+          ],
+          [
+            "16:00",
+            "00:00"
+          ]
+        ]
+      },
+      "rating": {
+        "value": 3.8,
+        "scale": 5,
+        "count": 177,
+        "source": "Tripadvisor",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187890-d3621717-Reviews-Enoteca_Buonivini-Palermo_Province_of_Palermo_Sicily.html",
+        "checkedAt": "2026-11-06"
+      },
+      "related": [
+        "cappello-politeama"
+      ]
+    },
+    {
+      "id": "vinoveritas",
+      "name": "Vinoveritas",
+      "category": "wine",
+      "area": "Libertà",
+      "address": "Viale Piemonte 22",
+      "budget": [
+        20,
+        60
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Der Host-Tipp außerhalb der direkten Altstadt.",
+      "best": "Weinauswahl & ein längerer Abend",
+      "tip": "Über die Telefonnummer der Host eindeutig der Adresse Viale Piemonte 22 zugeordnet. Nicht mit der gleichnamigen Enoteca in Via Sammartino verwechseln.",
+      "website": "https://addiopizzo.org/rete-imprese/azienda/vinoveritas/",
+      "phone": "+39091342117",
+      "mapsUrl": "https://g.co/kgs/GgWXwcT",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://addiopizzo.org/rete-imprese/azienda/vinoveritas/"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/way/912680834"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [],
+      "image": "wine",
+      "coords": [
+        38.1417535,
+        13.3410407
+      ],
+      "locationPrecision": "area",
+      "related": []
+    },
+    {
+      "id": "costa",
+      "name": "Pasticceria Costa",
+      "category": "sweet",
+      "area": "Quattro Canti",
+      "address": "Via Maqueda 174",
+      "budget": [
+        3,
+        9
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Ein süßer Stopp direkt am barocken Stadtkreuz.",
+      "best": "Cannolo oder sizilianische Pasticceria",
+      "tip": "Die zentrale Filiale liegt direkt bei Bisso. Praktisch für ein Dessert nach einem Rundgang durch den Cassaro.",
+      "website": "https://www.pasticceriacosta.com/contactus",
+      "phone": "",
+      "mapsUrl": "https://g.co/kgs/qGCh9o",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.pasticceriacosta.com/contactus"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/6810131185"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [
+        "Cannoli",
+        "Schnell"
+      ],
+      "image": "sweet",
+      "coords": [
+        38.1158462,
+        13.3612672
+      ],
+      "locationPrecision": "address",
+      "hours": {
+        "0": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ],
+        "1": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "23:00"
+          ]
+        ]
+      },
+      "related": [
+        "bisso",
+        "quattro"
+      ]
+    },
+    {
+      "id": "cappello-rotta",
+      "name": "Pasticceria Cappello · Colonna Rotta",
+      "category": "sweet",
+      "area": "Palazzo Reale",
+      "address": "Via Colonna Rotta 68",
+      "budget": [
+        4,
+        10
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Schokolade als guter Grund für einen kleinen Umweg.",
+      "best": "Torta Setteveli",
+      "tip": "Die historische Filiale ist westlich des Palazzo Reale. Deine Host verortet sie grob bei Ballarò; die Adresse ist Via Colonna Rotta 68.",
+      "website": "https://www.touringclub.it/destinazioni/palermo/fare/271670-pasticceria-cappello",
+      "phone": "+39091489601",
+      "mapsUrl": "https://g.co/kgs/4RWPvA6",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.touringclub.it/destinazioni/palermo/fare/271670-pasticceria-cappello"
+        },
+        {
+          "label": "Position · OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/4330794834"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [],
+      "image": "sweet",
+      "coords": [
+        38.1121405,
+        13.3502492
+      ],
+      "locationPrecision": "address",
+      "related": [
+        "palatina"
+      ]
+    },
+    {
+      "id": "cappello-politeama",
+      "name": "Pasticceria Cappello · Politeama",
+      "category": "sweet",
+      "area": "Politeama",
+      "address": "Via Nicolò Garzilli 10",
+      "budget": [
+        4,
+        10
+      ],
+      "priceKind": "estimate",
+      "host": true,
+      "tagline": "Die Setteveli-Pause im Norden des Zentrums.",
+      "best": "Schokoladen-Torte oder kleine Pasticceria",
+      "tip": "Mehrere Verzeichnisse nennen abweichende Hausnummern 10/19. Original-Maps-Link oder Telefon zur Orientierung nutzen.",
+      "website": "https://www.touringclub.it/destinazioni/palermo/fare/271670-pasticceria-cappello",
+      "phone": "+390916113769",
+      "mapsUrl": "https://g.co/kgs/N1Myv3a",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.touringclub.it/destinazioni/palermo/fare/271670-pasticceria-cappello"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [],
+      "image": "sweet",
+      "coords": [
+        38.1268,
+        13.3552
+      ],
+      "locationPrecision": "area",
+      "related": [
+        "buonivini"
+      ]
+    },
+    {
+      "id": "cattedrale",
+      "name": "Cattedrale · Die Dächer",
+      "category": "culture",
+      "area": "Cattedrale",
+      "address": "Corso Vittorio Emanuele",
+      "budget": [
+        7,
+        7
+      ],
+      "priceKind": "published",
+      "host": false,
+      "tagline": "Einmal über Palermo stehen.",
+      "best": "Der Rundgang über die Dächer",
+      "tip": "Das offizielle Ticket für die Dächer kostet regulär 7 €. Letzter Einlass 35 Minuten vor Schließung; Treppen einplanen.",
+      "website": "https://www.ticket-shop-cattedraledipalermo.it/amc/prodotto/tetti/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cattedrale%20%C2%B7%20Die%20D%C3%A4cher%20Corso%20Vittorio%20Emanuele%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.ticket-shop-cattedraledipalermo.it/amc/prodotto/tetti/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [],
+      "image": "culture",
+      "coords": [
+        38.1144,
+        13.356
+      ],
+      "locationPrecision": "landmark",
+      "related": [
+        "argento"
+      ]
+    },
+    {
+      "id": "palatina",
+      "name": "Cappella Palatina & Palazzo Reale",
+      "category": "culture",
+      "area": "Palazzo Reale",
+      "address": "Piazza del Parlamento 1",
+      "budget": [
+        15,
+        25
+      ],
+      "priceKind": "estimate",
+      "host": false,
+      "tagline": "Goldene Mosaike, die lange im Kopf bleiben.",
+      "best": "Die Mosaike der Cappella Palatina",
+      "tip": "Der Anbieter weist aktuell auf Restaurierungsarbeiten hin. Verfügbarkeit und Ticketumfang vor dem Kauf prüfen.",
+      "website": "https://www.federicosecondo.org/visita/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cappella%20Palatina%20%26%20Palazzo%20Reale%20Piazza%20del%20Parlamento%201%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.federicosecondo.org/visita/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 120,
+      "tags": [
+        "Mosaike",
+        "Bei Regen"
+      ],
+      "image": "culture",
+      "warning": "Restaurierung · Zugänglichkeit vorab prüfen",
+      "coords": [
+        38.1109,
+        13.3537
+      ],
+      "locationPrecision": "landmark",
+      "related": [
+        "cappello-rotta"
+      ]
+    },
+    {
+      "id": "massimo",
+      "name": "Teatro Massimo",
+      "category": "culture",
+      "area": "Olivella",
+      "address": "Piazza Verdi",
+      "budget": [
+        12,
+        15
+      ],
+      "priceKind": "estimate",
+      "host": false,
+      "tagline": "Hinter die Fassade des großen Opernhauses schauen.",
+      "best": "Eine Führung durch das Theater",
+      "tip": "Führungen laut Anbieter täglich 9:30–19 Uhr, letzte Tour 18:20. Kombiticket mit Palazzo Butera: 19 €, 72 Stunden gültig.",
+      "website": "https://www.teatromassimo.it/visite-guidate/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro%20Massimo%20Piazza%20Verdi%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.teatromassimo.it/visite-guidate/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [
+        "Architektur",
+        "Bei Regen"
+      ],
+      "image": "culture",
+      "coords": [
+        38.1202,
+        13.3572
+      ],
+      "locationPrecision": "landmark",
+      "hours": {
+        "0": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ],
+        "1": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ],
+        "2": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ],
+        "3": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ],
+        "4": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ],
+        "5": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "18:20"
+          ]
+        ]
+      },
+      "related": [
+        "doba",
+        "fud",
+        "basile",
+        "cuticchio"
+      ]
+    },
+    {
+      "id": "ballaro",
+      "name": "Mercato di Ballarò",
+      "category": "street",
+      "area": "Albergheria",
+      "address": "Piazza Ballarò",
+      "budget": [
+        0,
+        12
+      ],
+      "priceKind": "estimate",
+      "host": false,
+      "tagline": "Laut, bunt und mitten im Alltag.",
+      "best": "Tagsüber über den Markt schlendern & Streetfood probieren",
+      "tip": "Unsere Empfehlung: vormittags kommen und kleine Portionen teilen. Markteintritt frei; Snacks extra. Mit Ponticello kombinieren.",
+      "website": "https://albergheriaecapoinsieme.chiesadipalermo.it/itinerario-di-visita-dei-quartieri-capo-ed-albergheria-contrade-e-monumenti/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato%20di%20Ballar%C3%B2%20Piazza%20Ballar%C3%B2%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://albergheriaecapoinsieme.chiesadipalermo.it/itinerario-di-visita-dei-quartieri-capo-ed-albergheria-contrade-e-monumenti/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [
+        "Markt",
+        "Tagsüber",
+        "Streetfood"
+      ],
+      "image": "street",
+      "coords": [
+        38.1105,
+        13.3619
+      ],
+      "locationPrecision": "landmark",
+      "related": [
+        "ponticello"
+      ]
+    },
+    {
+      "id": "capo",
+      "name": "Mercato del Capo",
+      "category": "street",
+      "area": "Capo",
+      "address": "Via Porta Carini",
+      "budget": [
+        0,
+        12
+      ],
+      "priceKind": "estimate",
+      "host": false,
+      "tagline": "Marktstände und sizilianische Straßenszenen.",
+      "best": "Ein Vormittag zwischen Obst, Fisch & kleinen Snacks",
+      "tip": "Unsere Empfehlung: tagsüber mit Zeit zum Schauen kommen. Le Angeliche ist ein schöner Anschluss für die Mittagspause.",
+      "website": "https://www.capomercato.eu/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato%20del%20Capo%20Via%20Porta%20Carini%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.capomercato.eu/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 30,
+      "tags": [
+        "Markt",
+        "Tagsüber",
+        "Streetfood"
+      ],
+      "image": "street",
+      "coords": [
+        38.1188,
+        13.3542
+      ],
+      "locationPrecision": "landmark",
+      "related": [
+        "favas",
+        "lumia",
+        "angeliche",
+        "frida"
+      ]
+    },
+    {
+      "id": "quattro",
+      "name": "Quattro Canti",
+      "category": "culture",
+      "area": "Quattro Canti",
+      "address": "Piazza Vigliena",
+      "budget": [
+        0,
+        0
+      ],
+      "priceKind": "published",
+      "host": false,
+      "tagline": "Vier Fassaden. Das ganze Zentrum um dich herum.",
+      "best": "Die barocke Kreuzung aus allen vier Richtungen ansehen",
+      "tip": "Öffentlicher Platz, Eintritt frei. Von hier sind Piazza Pretoria, Costa und Bisso nur einen kurzen Spaziergang entfernt.",
+      "website": "https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?det=17&id=269&tp=68",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quattro%20Canti%20Piazza%20Vigliena%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?det=17&id=269&tp=68"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [
+        "Architektur",
+        "Kostenlos"
+      ],
+      "image": "culture",
+      "coords": [
+        38.1158,
+        13.3615
+      ],
+      "locationPrecision": "landmark",
+      "alwaysAccessible": true,
+      "related": [
+        "bisso",
+        "costa"
+      ]
+    },
+    {
+      "id": "butera",
+      "name": "Palazzo Butera",
+      "category": "culture",
+      "area": "Kalsa",
+      "address": "Via Butera 8",
+      "budget": [
+        10,
+        10
+      ],
+      "priceKind": "published",
+      "host": false,
+      "tagline": "Kunst, Palazzoräume und ein Blick aufs Meer.",
+      "best": "Die Sammlung Valsecchi & die Aussicht",
+      "tip": "Regulär 10 €, Dienstag bis Sonntag 10–20 Uhr, letzter Einlass 19 Uhr. Kombiticket mit Teatro Massimo: 19 €.",
+      "website": "https://www.palazzobutera.it/en/visit-us/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Butera%20Via%20Butera%208%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.palazzobutera.it/en/visit-us/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 75,
+      "tags": [
+        "Kunst",
+        "Bei Regen"
+      ],
+      "image": "culture",
+      "coords": [
+        38.1173,
+        13.3718
+      ],
+      "locationPrecision": "landmark",
+      "hours": {
+        "0": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ]
+      },
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "santa-cecilia"
+      ]
+    },
+    {
+      "id": "botanico",
+      "name": "Orto Botanico",
+      "category": "outdoors",
+      "area": "Kalsa",
+      "address": "Via Lincoln 2",
+      "budget": [
+        8,
+        10
+      ],
+      "priceKind": "estimate",
+      "host": false,
+      "tagline": "Riesige Wurzeln, Schatten und einmal durchatmen.",
+      "best": "Ein langsamer Spaziergang durch die Pflanzensammlungen",
+      "tip": "Öffnungszeiten sind saisonal; letzten Einlass und aktuellen Eintritt beim Anbieter prüfen. Danach zum nahen Foro Italico.",
+      "website": "https://musei.unipa.it/it/musei/orto-botanico",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Orto%20Botanico%20Via%20Lincoln%202%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://musei.unipa.it/it/musei/orto-botanico"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Natur",
+        "Entspannen"
+      ],
+      "image": "outdoors",
+      "coords": [
+        38.112,
+        13.3731
+      ],
+      "locationPrecision": "landmark",
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "santa-cecilia"
+      ]
+    },
+    {
+      "id": "foro",
+      "name": "Foro Italico",
+      "category": "outdoors",
+      "area": "Kalsa",
+      "address": "Foro Italico Umberto I",
+      "budget": [
+        0,
+        0
+      ],
+      "priceKind": "published",
+      "host": false,
+      "tagline": "Meerluft ohne großen Plan.",
+      "best": "Die Promenade zwischen Kalsa und Meer",
+      "tip": "Öffentliche Grünfläche am Wasser. Unsere Empfehlung: später Nachmittag, dann durch die Kalsa zu einem Glas Wein.",
+      "website": "https://www.comune.palermo.it/vivere-il-comune/luoghi/foro-italico/",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foro%20Italico%20Foro%20Italico%20Umberto%20I%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://www.comune.palermo.it/vivere-il-comune/luoghi/foro-italico/"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 60,
+      "tags": [
+        "Am Meer",
+        "Kostenlos"
+      ],
+      "image": "outdoors",
+      "coords": [
+        38.1178,
+        13.3758
+      ],
+      "locationPrecision": "landmark",
+      "alwaysAccessible": true,
+      "related": [
+        "alivaru",
+        "scjabaca",
+        "ottava",
+        "santa-cecilia"
+      ]
+    },
+    {
+      "id": "mondello",
+      "name": "Mondello",
+      "category": "outdoors",
+      "area": "Mondello",
+      "address": "Viale Regina Elena · Mondello",
+      "budget": [
+        0,
+        15
+      ],
+      "priceKind": "estimate",
+      "host": false,
+      "tagline": "Ein halber Tag zwischen Stadt und Strand.",
+      "best": "Die Bucht und das alte Badehaus anschauen",
+      "tip": "Außerhalb des Zentrums: Anfahrt separat planen. Strandspaziergang frei, Liegen und Gastronomie kosten extra; im November wetterabhängig.",
+      "website": "https://turismo.comune.palermo.it/palermo-welcome-mare-dettaglio.php?det=26&id=373&tp=158",
+      "phone": "",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mondello%20Viale%20Regina%20Elena%20%C2%B7%20Mondello%20Palermo",
+      "sources": [
+        {
+          "label": "Recherche / Anbieter",
+          "url": "https://turismo.comune.palermo.it/palermo-welcome-mare-dettaglio.php?det=26&id=373&tp=158"
+        }
+      ],
+      "checkedAt": "2026-11-06",
+      "duration": 180,
+      "tags": [
+        "Strand",
+        "Ausflug"
+      ],
+      "image": "outdoors",
+      "coords": [
+        38.2024,
+        13.3243
+      ],
+      "locationPrecision": "landmark",
+      "alwaysAccessible": true,
+      "related": []
+    }
+  ]
+}

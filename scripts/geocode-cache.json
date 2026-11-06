@@ -1,0 +1,648 @@
+{
+  "Via Nicolò Turrisi 2, Palermo, Italia": [
+    {
+      "place_id": 53272410,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 96957240,
+      "lat": "38.1200189",
+      "lon": "13.3519326",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "tertiary",
+      "name": "Via Nicolò Turrisi",
+      "display_name": "Via Nicolò Turrisi, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia",
+      "boundingbox": [
+        "38.1198563",
+        "38.1201874",
+        "13.3508961",
+        "13.3529682"
+      ]
+    }
+  ],
+  "Via Bara all’Olivella 78, Palermo, Italia": [
+    {
+      "place_id": 53265547,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86565309,
+      "lat": "38.1213008",
+      "lon": "13.3619567",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Via Bara All'Olivella",
+      "display_name": "Via Bara All'Olivella, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1211682",
+        "38.1214598",
+        "13.3613106",
+        "13.3625968"
+      ]
+    }
+  ],
+  "Via Vittorio Emanuele 291, Palermo, Italia": [
+    {
+      "place_id": 53727945,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10047759397,
+      "lat": "38.1159728",
+      "lon": "13.3619667",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Le Terrazze del Sole",
+      "display_name": "Le Terrazze del Sole, 291, Via Vittorio Emanuele, La Loggia, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+      "boundingbox": [
+        "38.1159228",
+        "38.1160228",
+        "13.3619167",
+        "13.3620167"
+      ]
+    }
+  ],
+  "Largo Gae Aulenti 2, Palermo, Italia": [],
+  "Via Sant’Agostino 136, Palermo, Italia": [
+    {
+      "place_id": 53996119,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9468588589,
+      "lat": "38.1177154",
+      "lon": "13.3564895",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Lumia Restaurant",
+      "display_name": "Lumia Restaurant, 136, Via Sant'Agostino, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+      "boundingbox": [
+        "38.1176654",
+        "38.1177654",
+        "13.3564395",
+        "13.3565395"
+      ]
+    }
+  ],
+  "Via Vittorio Emanuele 198, Palermo, Italia": [
+    {
+      "place_id": 53283083,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9768994617,
+      "lat": "38.1168240",
+      "lon": "13.3644628",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Canopia",
+      "display_name": "Canopia, 198, Via Vittorio Emanuele, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1167740",
+        "38.1168740",
+        "13.3644128",
+        "13.3645128"
+      ]
+    }
+  ],
+  "Vicolo Abbadia 10–14, Palermo, Italia": [
+    {
+      "place_id": 53769715,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6561456902,
+      "lat": "38.1180151",
+      "lon": "13.3540565",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Le Angeliche",
+      "display_name": "Le Angeliche, 10-14, Vicolo dell'Abbadia, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+      "boundingbox": [
+        "38.1179651",
+        "38.1180651",
+        "13.3540065",
+        "13.3541065"
+      ]
+    }
+  ],
+  "Vicolo Viola 2, Palermo, Italia": [
+    {
+      "place_id": 53727532,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86665908,
+      "lat": "38.1136968",
+      "lon": "13.3625102",
+      "category": "highway",
+      "type": "service",
+      "place_rank": 27,
+      "importance": 0.040075612268253596,
+      "addresstype": "road",
+      "name": "Vicolo Viola",
+      "display_name": "Vicolo Viola, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+      "boundingbox": [
+        "38.1136530",
+        "38.1137164",
+        "13.3622426",
+        "13.3627748"
+      ]
+    }
+  ],
+  "Piazza Olivella 4, Palermo, Italia": [
+    {
+      "place_id": 53669826,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5448179838,
+      "lat": "38.1203571",
+      "lon": "13.3601397",
+      "category": "amenity",
+      "type": "pub",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "FUD",
+      "display_name": "FUD, 4, Piazza All'Olivella, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1203071",
+        "38.1204071",
+        "13.3600897",
+        "13.3601897"
+      ]
+    }
+  ],
+  "Via della Vetriera 1, Palermo, Italia": [
+    {
+      "place_id": 53672295,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86530716,
+      "lat": "38.1153228",
+      "lon": "13.3702910",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Via della Vetriera",
+      "display_name": "Via della Vetriera, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1144482",
+        "38.1162039",
+        "13.3696238",
+        "13.3709673"
+      ]
+    }
+  ],
+  "Via Vittorio Emanuele 390, Palermo, Italia": [
+    {
+      "place_id": 53342621,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13463719643,
+      "lat": "38.1146108",
+      "lon": "13.3589960",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Caffè del Kàssaro",
+      "display_name": "Caffè del Kàssaro, 390, Via Vittorio Emanuele, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+      "boundingbox": [
+        "38.1145608",
+        "38.1146608",
+        "13.3589460",
+        "13.3590460"
+      ]
+    }
+  ],
+  "Via Bara all’Olivella, Palermo, Italia": [
+    {
+      "place_id": 53653678,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86565309,
+      "lat": "38.1213008",
+      "lon": "13.3619567",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Via Bara All'Olivella",
+      "display_name": "Via Bara All'Olivella, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1211682",
+        "38.1214598",
+        "13.3613106",
+        "13.3625968"
+      ]
+    }
+  ],
+  "Via Vittorio Emanuele 176, Palermo, Italia": [
+    {
+      "place_id": 53947371,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3737957625,
+      "lat": "38.1171030",
+      "lon": "13.3651810",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Buatta Cucina Popolana",
+      "display_name": "Buatta Cucina Popolana, 176, Via Vittorio Emanuele, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1170530",
+        "38.1171530",
+        "13.3651310",
+        "13.3652310"
+      ]
+    }
+  ],
+  "Vicolo San Carlo 42, Palermo, Italia": [
+    {
+      "place_id": 53688651,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86530905,
+      "lat": "38.1146254",
+      "lon": "13.3668849",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Vicolo San Carlo",
+      "display_name": "Vicolo San Carlo, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1144552",
+        "38.1147916",
+        "13.3665929",
+        "13.3671793"
+      ]
+    }
+  ],
+  "Via Butera 55, Palermo, Italia": [
+    {
+      "place_id": 53907400,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86530771,
+      "lat": "38.1181651",
+      "lon": "13.3714627",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Via Butera",
+      "display_name": "Via Butera, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1171897",
+        "38.1191323",
+        "13.3707470",
+        "13.3721698"
+      ]
+    }
+  ],
+  "Via Maqueda 172A, Palermo, Italia": [
+    {
+      "place_id": 53966247,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4383608093,
+      "lat": "38.1157909",
+      "lon": "13.3613145",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Bisso bistrot",
+      "display_name": "Bisso bistrot, 172a, Via Maqueda, Il Capo, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1157409",
+        "38.1158409",
+        "13.3612645",
+        "13.3613645"
+      ]
+    }
+  ],
+  "Piazza Teatro Santa Cecilia 5, Palermo, Italia": [
+    {
+      "place_id": 53191478,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3396245908,
+      "lat": "38.1144302",
+      "lon": "13.3651548",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Crash Eat",
+      "display_name": "Crash Eat, 5, Piazza Teatro Santa Cecilia, Kalsa, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+      "boundingbox": [
+        "38.1143802",
+        "38.1144802",
+        "13.3651048",
+        "13.3652048"
+      ]
+    }
+  ],
+  "Via Bara all’Olivella 95, Palermo, Italia": [
+    {
+      "place_id": 53678090,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6558498885,
+      "lat": "38.1208126",
+      "lon": "13.3593113",
+      "category": "amenity",
+      "type": "theatre",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Teatro dei Pupi",
+      "display_name": "Teatro dei Pupi, 95, Via Bara All'Olivella, Il Capo, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1207626",
+        "38.1208626",
+        "13.3592613",
+        "13.3593613"
+      ]
+    }
+  ],
+  "Via Pietro Novelli 1, Palermo, Italia": [
+    {
+      "place_id": 53578792,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9794958803,
+      "lat": "38.1132986",
+      "lon": "13.3563611",
+      "category": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "1a, Via Pietro Novelli, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+      "boundingbox": [
+        "38.1132486",
+        "38.1133486",
+        "13.3563111",
+        "13.3564111"
+      ]
+    }
+  ],
+  "Via Castrofilippo 4, Palermo, Italia": [
+    {
+      "place_id": 53691510,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4781721724,
+      "lat": "38.1141735",
+      "lon": "13.3689709",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Ciccio Passami l'Olio",
+      "display_name": "Ciccio Passami l'Olio, 4, Via Castrofilippo, Kalsa, I Circoscrizione, Palermo, Sicilia, 90100, Italia",
+      "boundingbox": [
+        "38.1141235",
+        "38.1142235",
+        "13.3689209",
+        "13.3690209"
+      ]
+    }
+  ],
+  "Via Pantelleria 19, Palermo, Italia": [
+    {
+      "place_id": 53979599,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11626565629,
+      "lat": "38.1199957",
+      "lon": "13.3644627",
+      "category": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Fúnnaco PizzaLab",
+      "display_name": "Fúnnaco PizzaLab, 19, Via Pantelleria, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1199457",
+        "38.1200457",
+        "13.3644127",
+        "13.3645127"
+      ]
+    }
+  ],
+  "Piazza Sant’Onofrio 37–38, Palermo, Italia": [
+    {
+      "place_id": 53855081,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86624035,
+      "lat": "38.1173004",
+      "lon": "13.3587073",
+      "category": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "pedestrian",
+      "name": "Piazza Sant'Onofrio",
+      "display_name": "Piazza Sant'Onofrio, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+      "boundingbox": [
+        "38.1170890",
+        "38.1175592",
+        "13.3582594",
+        "13.3593749"
+      ]
+    }
+  ],
+  "Discesa dei Giudici 46, Palermo, Italia": [
+    {
+      "place_id": 53571643,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86544737,
+      "lat": "38.1152809",
+      "lon": "13.3635548",
+      "category": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "pedestrian",
+      "name": "Discesa dei Giudici",
+      "display_name": "Discesa dei Giudici, Kalsa, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+      "boundingbox": [
+        "38.1151954",
+        "38.1152962",
+        "13.3628673",
+        "13.3642509"
+      ]
+    }
+  ],
+  "Via Giuseppe Garibaldi, Palermo, Italia": [
+    {
+      "place_id": 53683352,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 336962373,
+      "lat": "38.1132884",
+      "lon": "13.3670340",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Via Giuseppe Garibaldi",
+      "display_name": "Via Giuseppe Garibaldi, Kalsa, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+      "boundingbox": [
+        "38.1125584",
+        "38.1140120",
+        "13.3666088",
+        "13.3674481"
+      ]
+    }
+  ],
+  "Via Alessandro Paternostro 87, Palermo, Italia": [
+    {
+      "place_id": 53551269,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 86530776,
+      "lat": "38.1154928",
+      "lon": "13.3664993",
+      "category": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "residential",
+      "name": "Via Alessandro Paternostro",
+      "display_name": "Via Alessandro Paternostro, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+      "boundingbox": [
+        "38.1150343",
+        "38.1159587",
+        "13.3663956",
+        "13.3666292"
+      ]
+    }
+  ],
+  "Via Dante 8, Palermo, Italia": [
+    {
+      "place_id": 53615158,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 97354766,
+      "lat": "38.1223672",
+      "lon": "13.3449969",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "tertiary",
+      "name": "Via Dante",
+      "display_name": "Via Dante, Olivuzza, Uditore, V Circoscrizione, Palermo, Sicilia, 90137, Italia",
+      "boundingbox": [
+        "38.1213079",
+        "38.1234334",
+        "13.3405638",
+        "13.3494283"
+      ]
+    }
+  ],
+  "Viale Piemonte 22, Palermo, Italia": [
+    {
+      "place_id": 53621541,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 912680834,
+      "lat": "38.1417535",
+      "lon": "13.3410407",
+      "category": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053408945601586905,
+      "addresstype": "tertiary",
+      "name": "Via Giorgio Boris Giuliano",
+      "display_name": "Via Giorgio Boris Giuliano, Quartiere Matteotti, VIII Circoscrizione, Palermo, Sicilia, 90144, Italia",
+      "boundingbox": [
+        "38.1406070",
+        "38.1429122",
+        "13.3403190",
+        "13.3417841"
+      ]
+    }
+  ],
+  "Via Maqueda 174, Palermo, Italia": [
+    {
+      "place_id": 53603759,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6810131185,
+      "lat": "38.1158462",
+      "lon": "13.3612672",
+      "category": "amenity",
+      "type": "cafe",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "amenity",
+      "name": "Costa",
+      "display_name": "Costa, 174, Via Maqueda, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+      "boundingbox": [
+        "38.1157962",
+        "38.1158962",
+        "13.3612172",
+        "13.3613172"
+      ]
+    }
+  ],
+  "Via Colonna Rotta 68, Palermo, Italia": [
+    {
+      "place_id": 53922554,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4330794834,
+      "lat": "38.1121405",
+      "lon": "13.3502492",
+      "category": "shop",
+      "type": "confectionery",
+      "place_rank": 30,
+      "importance": 7.561226825355943e-05,
+      "addresstype": "shop",
+      "name": "Pasticceria Cappello",
+      "display_name": "Pasticceria Cappello, 68, Via Colonna Rotta, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90138, Italia",
+      "boundingbox": [
+        "38.1120905",
+        "38.1121905",
+        "13.3501992",
+        "13.3502992"
+      ]
+    }
+  ],
+  "Via Nicolò Garzilli 10, Palermo, Italia": []
+}

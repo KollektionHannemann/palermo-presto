@@ -1,0 +1,70 @@
+name: Import a place
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      url:
+        description: Public HTTPS URL of a place in Palermo
+        required: true
+        type: string
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+concurrency:
+  group: palermo-import
+  cancel-in-progress: false
+jobs:
+  import:
+    if: >-
+      (github.event_name == 'workflow_dispatch' && github.actor == github.repository_owner) ||
+      (github.event_name == 'issues' && github.event.issue.user.login == github.repository_owner && contains(github.event.issue.body, '<!-- palermo-import -->'))
+    runs-on: ubuntu-latest
+    outputs:
+      place_id: ${{ steps.enrich.outputs.place_id }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Extract public place metadata
+        id: enrich
+        env:
+          IMPORT_URL: ${{ inputs.url }}
+        run: node scripts/import-place.mjs
+      - name: Validate the enriched database
+        run: node scripts/validate.mjs
+      - name: Save the place
+        run: |
+          git config user.name 'palermo-presto[bot]'
+          git config user.email 'palermo-presto[bot]@users.noreply.github.com'
+          git add public/data/places.json
+          if [ -f scripts/import-cache.json ]; then git add scripts/import-cache.json; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: import a Palermo place'
+            git pull --rebase origin main
+            git push origin main
+          fi
+      - name: Confirm issue import
+        if: github.event_name == 'issues' && success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          PLACE_ID: ${{ steps.enrich.outputs.place_id }}
+        run: |
+          printf 'Der Ort ist in der Datenbank. Die Veröffentlichung läuft jetzt. Danach ist er hier erreichbar:\n\nhttps://kollektionhannemann.github.io/palermo-presto/#ort=%s\n\nAutomatisch gelesene Angaben sind als ungeprüft markiert.\n' "$PLACE_ID" > /tmp/import-comment.md
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body-file /tmp/import-comment.md
+          gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY"
+      - name: Report an import error
+        if: github.event_name == 'issues' && failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body 'Der Import konnte nicht abgeschlossen werden. Bitte im verlinkten Actions-Lauf die Fehlermeldung prüfen. Manche Google-/Social-Links blockieren automatisches Auslesen; dann die offizielle Website verwenden. Es wurden keine fehlenden Daten erfunden.'
+  publish:
+    needs: import
+    uses: ./.github/workflows/pages.yml

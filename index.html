@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#f7f4ed" />
+  <meta name="description" content="Dein schneller Palermo-Guide: 40 recherchierte Orte, die Tipps deiner Host, Karte, Preise und persönliche Favoriten. Auch offline dabei." />
+  <meta property="og:title" content="Palermo, presto. · Raus in die Stadt" />
+  <meta property="og:description" content="Weniger suchen. Mehr Palermo. Dein persönlicher Stadtguide mit 40 guten Adressen." />
+  <link rel="icon" type="image/svg+xml" href="./icon.svg" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="./icon-192.png" />
+  <link rel="preload" href="./images/hero.webp" as="image" fetchpriority="high" />
+  <title>Palermo, presto. · Dein Stadtguide</title>
+</head>
+<body>
+  <a class="skip" href="#explore">Zum Stadtguide</a>
+  <header class="header shell">
+    <a class="brand" href="#" aria-label="Palermo presto Startseite"><span class="brand-sun" aria-hidden="true">✳</span><span>palermo<span class="brand-dot">.</span><small>PRESTO</small></span></a>
+    <nav class="desktop-nav" aria-label="Hauptnavigation"><button data-view="explore" class="active">Entdecken</button><button data-view="map">Karte</button><button data-view="saved">Merkliste <span class="saved-count">0</span></button></nav>
+    <button class="button add-button" data-action="add"><span aria-hidden="true">＋</span> <span>Ort hinzufügen</span></button>
+  </header>
+  <main>
+    <section class="hero shell" aria-label="Willkommen in Palermo">
+      <div class="hero-copy"><div class="eyebrow"><span class="live-dot"></span> CIAO, PALERMO. CIAO, NÄCHSTES ABENTEUER.</div><h1>Weniger suchen.<br>Mehr <em>Palermo.</em></h1><p>Ein guter Kaffee. Eine kleine Gasse. Dein nächster Lieblingsort. Die Stadt ist da draußen.</p>
+        <div class="hero-actions"><button class="button dark" data-action="surprise">Such mir was aus <span aria-hidden="true">↗</span></button><button class="text-button" data-action="locate"><span data-icon="locate"></span> In meiner Nähe</button></div>
+        <div class="hero-proof"><span class="host-avatar" aria-hidden="true">♥</span><span><strong>Von deiner Host. Für deinen Tag.</strong><small><span id="host-total">30</span> persönliche Tipps + unsere Entdeckungen</small></span></div>
+      </div>
+      <div class="hero-visual"><img src="./images/hero.webp" width="1400" height="933" alt="Die Kathedrale von Palermo im sizilianischen Licht" fetchpriority="high" /><span class="photo-label">38°07′ N &nbsp; 13°21′ E</span><button class="hero-photo-card" data-place="cattedrale"><span><small>EIN GUTER ANFANG</small><strong>Über den Dächern der Stadt</strong><span>Cattedrale di Palermo · Dächer</span></span><span class="round-arrow" aria-hidden="true">↗</span></button><span class="sun-stamp" aria-hidden="true">LA VITA<br>È FUORI<span>✺</span></span></div>
+    </section>
+    <section class="guide shell" id="explore" aria-label="Orte entdecken">
+      <div class="guide-heading"><div><div class="eyebrow">DEIN PALERMO. DEIN TEMPO.</div><h2 id="view-title">Worauf hast du Lust?</h2></div><span id="offline-status" class="offline-status"><span class="live-dot"></span> Schnell dabei, auch unterwegs</span></div>
+      <div class="search-row"><label class="search-box"><span data-icon="search"></span><input type="search" id="search" autocomplete="off" placeholder="Pizza, Naturwein, Kalsa …" aria-label="Orte, Gerichte und Viertel durchsuchen" /><kbd>/</kbd></label><button class="button filter-toggle" data-action="filters" aria-expanded="false" aria-controls="filters"><span data-icon="sliders"></span> Filter <span id="filter-count"></span></button><button class="button location-button" data-action="locate"><span data-icon="locate"></span><span id="location-label">In der Nähe</span></button></div>
+      <div class="categories" role="group" aria-label="Kategorien" id="categories"></div>
+      <div class="filters" id="filters" hidden>
+        <label>Budget pro Person<select id="budget"><option value="0">Jedes Budget</option><option value="10">Bis 10 €</option><option value="25">Bis 25 €</option><option value="50">Bis 50 €</option><option value="free">Kostenlos</option></select></label>
+        <label>Wie viel Zeit?<select id="duration"><option value="0">Ich habe Zeit</option><option value="30">Bis 30 Minuten</option><option value="60">Bis 1 Stunde</option><option value="120">Bis 2 Stunden</option></select></label>
+        <label>Viertel<select id="area"><option value="">Alle Viertel</option></select></label>
+        <label class="check"><input type="checkbox" id="host-only" /> Nur Host-Tipps</label>
+        <label class="check"><input type="checkbox" id="open-only" /> Laut Plan offen <span title="Anhand recherchierter Wochenpläne, keine Live-Daten. Unbekannte Zeiten werden ausgeblendet.">ⓘ</span></label>
+        <button class="text-button" data-action="reset">Zurücksetzen</button>
+        <p class="filter-note">Budgetfilter nutzt das obere Ende der Spanne. Öffnungszeiten sind Wochenpläne, keine Live-Auskunft.</p>
+      </div>
+      <div class="results-bar"><p id="results-count" role="status" aria-live="polite"></p><div class="result-controls"><label class="sort-label">Sortieren <select id="sort" aria-label="Sortierung"><option value="recommended">Unsere Auswahl</option><option value="distance">Entfernung</option><option value="price">Preis aufsteigend</option><option value="rating">Bewertung</option><option value="name">A–Z</option></select></label><div class="view-switch" aria-label="Ansicht"><button data-view="explore" class="active" aria-label="Liste anzeigen" title="Liste"><span data-icon="grid"></span></button><button data-view="map" aria-label="Karte anzeigen" title="Karte"><span data-icon="map"></span></button></div></div></div>
+      <div id="geo-note" class="geo-note" hidden></div>
+      <div id="cards" class="cards"></div>
+      <section id="map-panel" class="map-panel" hidden aria-label="Interaktive Karte"><div id="map" role="region" aria-label="Karte von Palermo"></div><div class="map-info"><span>Orte anklicken, Details entdecken.</span><span id="map-count"></span></div><p class="map-note">~ = ungefähre Position. Hintergrundkarte braucht Internet; Ortsinfos bleiben offline verfügbar.</p></section>
+      <div id="empty" class="empty" hidden><span aria-hidden="true">☀</span><h3>Hier ist noch Platz für Palermo.</h3><p id="empty-text">Versuch eine andere Suche oder lockere deine Filter.</p><button class="button dark" data-action="reset">Alle Orte entdecken</button></div>
+    </section>
+    <section class="routes shell" id="routes-section"><div class="routes-heading"><div><div class="eyebrow">EIN GUTER ORT FÜHRT ZUM NÄCHSTEN</div><h2>Einfach treiben lassen.</h2></div><p>Drei kleine Runden. Kein voller Tagesplan.</p></div><div class="route-grid">
+      <button class="route-card" data-route="morning"><span class="route-illustration">☕ <span>↝</span> ☀</span><span class="eyebrow">DER ENTSPANNTE MORGEN</span><strong>Caffè, Capo & ein guter Teller</strong><span>Fava’s → Mercato del Capo → Le Angeliche</span><small>3 Stopps · ca. 2–3 Std. mit Pausen <b>↗</b></small></button>
+      <button class="route-card peach" data-route="oldtown"><span class="route-illustration">♜ <span>↝</span> ✳</span><span class="eyebrow">DIE ERSTE RUNDE</span><strong>Große Dächer, kleine Pausen</strong><span>Cattedrale → Quattro Canti → Costa</span><small>3 Stopps · ca. 2 Std. mit Pausen <b>↗</b></small></button>
+      <button class="route-card green" data-route="kalsa"><span class="route-illustration">≈ <span>↝</span> ♡</span><span class="eyebrow">BIS IN DEN ABEND</span><strong>Kunst, Meer & ein Glas Wein</strong><span>Palazzo Butera → Foro Italico → Dal Barone</span><small>3 Stopps · ca. 3 Std. mit Pausen <b>↗</b></small></button>
+    </div></section>
+    <section class="add-banner shell"><span class="banner-sun" aria-hidden="true">✺</span><div><div class="eyebrow">DEINE LISTE DARF WACHSEN</div><h2>Guten Ort gefunden?</h2><p>Link rein. Palermo um eine Entdeckung reicher.</p></div><button class="button dark" data-action="add">Ort hinzufügen <span aria-hidden="true">＋</span></button></section>
+  </main>
+  <footer class="footer shell"><a class="footer-brand" href="#">palermo, presto.</a><p>Mit Neugier gesammelt. Für unterwegs gemacht.</p><div><button class="text-button" data-action="about">Quellen & Hinweise</button><a href="https://github.com/KollektionHannemann/palermo-presto" target="_blank" rel="noopener noreferrer">GitHub ↗</a><button class="text-button" data-action="backup">Meine Daten sichern</button><label class="text-button restore-label">Backup laden<input type="file" id="restore-file" accept="application/json,.json" hidden /></label></div><small>Recherche: 6. November 2026 · Preise können sich ändern. Favoriten, Notizen und eigene Bewertungen bleiben auf diesem Gerät.</small></footer>
+  <nav class="mobile-nav" aria-label="Mobile Navigation"><button data-view="explore" class="active"><span data-icon="compass"></span>Entdecken</button><button data-view="map"><span data-icon="map"></span>Karte</button><button data-view="saved"><span data-icon="heart"></span>Merkliste <span class="saved-count">0</span></button></nav>
+  <dialog id="detail-dialog" class="detail-dialog"><button class="close-dialog" data-action="close" aria-label="Details schließen">×</button><div id="detail-content"></div></dialog>
+  <dialog id="add-dialog" class="add-dialog"><button class="close-dialog" data-action="close" aria-label="Schließen">×</button><div class="eyebrow">NEUER LIEBLINGSORT?</div><h2>Ein Link genügt.</h2><p>Google Maps, eine Restaurant-Website oder Wikipedia: Der Import sucht Name, Adresse, Kategorie und verfügbare Zusatzinfos.</p>
+    <form id="import-form"><label for="import-url">Link zum Ort</label><div class="import-input"><input type="url" id="import-url" required placeholder="https://maps.app.goo.gl/…" maxlength="2048" /><button class="button dark" type="submit">Link übernehmen ↗</button></div></form><div id="import-result" role="status" aria-live="polite"></div>
+    <details class="import-connection"><summary>Direktimport mit GitHub verbinden (optional)</summary><p>Mit einem Fine-grained Token für ausschließlich dieses Repository genügt künftig ein Klick. Berechtigungen: Actions lesen/schreiben. Das Token bleibt nur bis zum Schließen dieses Tabs im Sitzungsspeicher.</p><label for="github-token">GitHub Token</label><input id="github-token" type="password" autocomplete="off" placeholder="github_pat_…" /><button class="button" type="button" data-action="connect">Für diesen Tab verbinden</button><button class="text-button" type="button" data-action="disconnect">Verbindung löschen</button><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">Token bei GitHub erstellen ↗</a></details>
+    <p class="small-muted">Ohne Token öffnet sich ein vorausgefüllter GitHub-Import. Dort einmal auf „Submit new issue“ klicken. Nur der Repository-Eigentümer darf Importe auslösen. Danach aktualisiert sich der Guide in etwa 1–3 Minuten. Nicht verfügbare Daten bleiben als ungeprüft markiert.</p>
+  </dialog>
+  <dialog id="info-dialog" class="info-dialog"><button class="close-dialog" data-action="close" aria-label="Schließen">×</button><div id="info-content"></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="/src/app.js"></script>
+</body></html>
